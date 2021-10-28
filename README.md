@@ -1,6 +1,4 @@
-<img src="images/logo.png">
-
-# HashChecker
+# HashChecker <img src="images/logo.png" align="center" width="75">
 
 Verify your downloads or any other hash using this simple script.
 
