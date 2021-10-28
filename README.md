@@ -1,6 +1,9 @@
+<img src="images/logo.png">
 # HashChecker
 
-Verify your file downloads and any other hashes using this simple python script.
+Verify your downloads or any other hash using this simple script.
+
+Note: currently only supporting Windows.
 
 ## Currently supported hashing algorithms
 
