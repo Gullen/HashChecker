@@ -65,7 +65,7 @@ def hashCheck(file, algorithm, knownHash):
     print("                            ===================")
     print()
     print("\033[1;33;40m")
-    print("File: "          + file)
+    print("File:          " + file)
     print("Algorithm:     " + algorithm.upper())
     print("Hash to check: " + knownHash.upper())
     print()
