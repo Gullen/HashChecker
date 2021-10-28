@@ -1,5 +1,8 @@
 # HashChecker
 
-[![Python build](https://github.com/Gullen/HashChecker/actions/workflows/pythonTest.yml/badge.svg)](https://github.com/Gullen/HashChecker/actions/workflows/pythonTest.yml)
+Verify your file downloads and any other hashes using this simple python script.
 
-Verify files using multiple hashing algorithms with this hash generator
+### Currently supported hashing algorithms
+
+* MD5
+* SHA256
