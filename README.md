@@ -6,7 +6,7 @@ Verify your downloads or any other hash using this simple script.
 
 **Current Version: v1.0.1**
 
-* HashChecker.exe  
+* HashChecker.exe
 MD5: ```97CAA8991696BBA0986E326D7F283E76```
 SHA256: ```B65F4964E9E5339A3C5A43F43F91C5EABFC719E063CEFAB423CEF87187DAAE9A```
 
