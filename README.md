@@ -44,7 +44,7 @@ The program will output the hash for the selected file, and tell you if the "Kno
 <img src="images/correcthash.png" width="300">
 
 ## Legacy version
-To view and run the legacy version of HashChecker please view the readme in the legacy folder.
+To view and run the legacy version of HashChecker please view the [readme](https://github.com/Gullen/HashChecker/blob/main/legacy/README.md) in the legacy folder.
 
 * Legacy versions are: **1.x.x**
 
